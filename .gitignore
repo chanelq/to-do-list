@@ -1,3 +1,5 @@
+.DS_Store
+Mongoose.app
 *.rbc
 capybara-*.html
 .rspec

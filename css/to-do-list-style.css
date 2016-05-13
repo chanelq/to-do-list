@@ -1,0 +1,59 @@
+body {
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+div {
+  padding: 10px;
+}
+
+dt {
+  color: #337ab7;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px auto;
+  text-transform: uppercase;
+}
+
+
+.add-button {
+  background-color:#337ab7;
+  color: white;
+  border-color: #2e6da4;
+}
+
+.highlighted {
+  background-color: blue;
+}
+.add-button:hover, .icon-remove:hover, #keyShortcut:hover {
+  cursor: pointer;
+}
+
+.btn, .pageText {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-size: 14px;
+  text-transform: uppercase;
+  white-space: normal;
+}
+
+.shortcut-button {
+  background-color: white;
+}
+.table {
+  margin-top: 20px;
+}
+
+/* tr[data-priority='high'] td p */
+[data-priority='high'] {
+  color: #d9534f;
+}
+
+[data-priority='medium'] {
+  color: #f0ad4e;
+}
+
+[data-priority='low'] {
+  color: #5cb85c;
+}

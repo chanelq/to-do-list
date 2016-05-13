@@ -1,0 +1,25 @@
+Assignment for May 13th, 2016
+-------------------------------
+[ ] auto focus on input when the page loads
+[ ] order tasks by priority
+[ ]
+
+Later 
+---------
+- ability to select a task (highlight, ready to take some kind of action)
+- reorder tasks by dragging
+- reorder tasks by key shortcut (cmd shift up/down, after selected)
+- implement due date
+- implement lists/tags
+- auto complete priority using a symbol (: for priority, once typed  auto complete actual priority like high)
+- auto complete due date using a symbol (@ for due date, allow typing things or auto complet things like in 2 hours, in 2 days, specific date at 5pm etc.)
+- Add sliddown capability on a hidden description of todo item (add description as a property and create a nested div instead just a p for the todo row)
+
+Done
+---------------
+[x] fix sync so that we don't add same items more than once (delete everything on ui, then put sync items? or else?)
+
+[x] Make all to-do items objects
+[x] Add confirmation to delete all items
+[x] listen on enter key for adding tasks
+[x] implement none button for things with no priority

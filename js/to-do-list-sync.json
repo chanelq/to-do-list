@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Learn HTML/CSS"
+  },
+  {
+    "text": "Learn JavaScript and jQuery"
+  },
+  {
+    "text": "Learn Ruby on Rails"
+  },
+  {
+    "text": "High Priority Item", 
+    "priority": "high"
+  },
+  {
+    "text": "Medium Priority Item", 
+    "priority": "medium"
+  },
+  {
+    "text": "Low Priority Item", 
+    "priority": "low"
+  }
+]
