@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+// asdfasd
   // Make table rows sortable
   $( "#itemList tbody" ).sortable();
   $( "#itemList tbody" ).disableSelection();
@@ -28,6 +28,9 @@ $(document).ready(function() {
 
 });
 
+function hello() {
+  
+}
 
 // --------------------------------------- PARSING INPUT TEXT --------------------------------------- //  
 
