@@ -28,8 +28,8 @@ $(document).ready(function() {
 
 });
 
-function hello() {
-  
+function selectTask() {
+
 }
 
 // --------------------------------------- PARSING INPUT TEXT --------------------------------------- //  
