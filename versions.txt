@@ -1,3 +1,13 @@
-versions
-1.0
-2.0
+To-Do List Versions
+
+Version 1.0 
+  Features:
+    - Text input to add tasks
+    - Enter key for adding tasks
+    - Keyboard shortcuts for setting priority
+    - Sync items from JSON file
+    - Display items by priority (high, medium, low, no priority, all)
+    - Delete selected
+    - Delete all
+    - Reorder tasks by dragging
+Version2.0
